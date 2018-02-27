@@ -22,7 +22,7 @@ You run each generation, decide what cells will be alive in the next generation,
 
 ### a Cool Website to explore
 
-[http://web.stanford.edu/~cdebs/GameOfLife/](Stanford - Conway's Game of Life) is a terrific site, which has a simulator
+[Stanford Conway's Game of Life](http://web.stanford.edu/~cdebs/GameOfLife/) is a terrific site, which has a simulator
 on it where you can draw and see what happens.
 
 ## The Lab
