@@ -22,8 +22,8 @@ You run each generation, decide what cells will be alive in the next generation,
 
 ### Some pages to learn more and to explore
 
-[Yoda -> Notes on Conway's Life](https://yoda.zipcode.rocks/2020/07/21/notes-on-conways-game-of-life/)
-[Stanford Conway's Game of Life](http://web.stanford.edu/~cdebs/GameOfLife/) is a terrific site, which has a simulator
+- [Yoda -> Notes on Conway's Life](https://yoda.zipcode.rocks/2020/07/21/notes-on-conways-game-of-life/)
+- [Stanford Conway's Game of Life](http://web.stanford.edu/~cdebs/GameOfLife/) is a terrific site, which has a simulator
 on it where you can draw and see what happens.
 
 ## The Lab
