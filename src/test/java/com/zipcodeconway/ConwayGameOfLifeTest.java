@@ -1,11 +1,9 @@
 package com.zipcodeconway;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 public class ConwayGameOfLifeTest {
-
     @Test
     public void runTest1() {
         int[][] start = {
@@ -43,4 +41,5 @@ public class ConwayGameOfLifeTest {
         int[][] results = sim.simulate(10);
         assertTrue(java.util.Arrays.deepEquals(results, expected));
     }
+
 }
